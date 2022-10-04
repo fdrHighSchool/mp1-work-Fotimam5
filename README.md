@@ -2,9 +2,9 @@
 ## fall-22-mp1-work
 
 
-### Last Name:  
-### First Name: 
-### GitHub Username: 
+### Last Name:  Makhmudova
+### First Name: Fotima
+### GitHub Username: Fotimam2
 
 ---
 #### General Workflow: 
